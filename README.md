@@ -65,10 +65,10 @@ or a similar scheduling tool every minute -- more often if you operate
 a very dynamic environment, less often if your environment is very
 static and you don't have strict service discovery requirements.
 
-Also note that if you are using NS1's Managed DNS network, to query
-the records via your DNS resolver, you will need to generated them in
-a registered domain for which NS1 has been made authoritative using
-the nameservers assigned when you create the zone.
+Also note that if you are using NS1's Managed DNS network and querying
+the records via your DNS resolver, you will need to run the connector
+with a registered domain for which NS1 has been made authoritative
+using the nameservers assigned when you create the zone.
 
 ## License
 
