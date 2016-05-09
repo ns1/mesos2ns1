@@ -5,8 +5,9 @@
 This *simple, experimental* connector enables DNS based service
 discovery for [Apache Mesos](http://mesos.apache.org/) clusters via
 the [NS1](https://ns1.com) platform.  NS1 is a modern DNS and traffic
-management platform with delivery via a global Managed DNS network or
-on-prem/cloud Dedicated DNS deployments, and is suitable for
+management platform with delivery via a global [Managed
+DNS](https://ns1.com/managed-dns) network or on-prem/cloud [Dedicated
+DNS](https://ns1.com/dedicated-dns) deployments, and is suitable for
 performance sensitive, mission critical use cases.
 
 This connector is inspired by the
