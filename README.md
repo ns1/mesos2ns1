@@ -1,4 +1,6 @@
 # Mesos -> NS1 connector
+> This project is [deprecated](https://github.com/ns1/community/blob/master/project_status/DEPRECATED.md)
+> and we do not encourage you to use it.
 
 ## Description
 
